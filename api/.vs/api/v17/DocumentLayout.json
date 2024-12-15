@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\EntornoDesarrollo\\PlantCareScheduler\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9E89D18-B04D-423B-AAB8-309009EE81C9}|api.csproj|c:\\entornodesarrollo\\plantcarescheduler\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9E89D18-B04D-423B-AAB8-309009EE81C9}|api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93B7EB8-F1D2-4102-B84C-788A4A9369B0}|..\\api.Tests\\api.Tests.csproj|c:\\entornodesarrollo\\plantcarescheduler\\api.tests\\api.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "api.Tests",
+              "DocumentMoniker": "C:\\EntornoDesarrollo\\PlantCareScheduler\\api.Tests\\api.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\api.Tests\\api.Tests.csproj",
+              "ToolTip": "C:\\EntornoDesarrollo\\PlantCareScheduler\\api.Tests\\api.Tests.csproj",
+              "RelativeToolTip": "..\\api.Tests\\api.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T20:08:38.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\EntornoDesarrollo\\PlantCareScheduler\\api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\EntornoDesarrollo\\PlantCareScheduler\\api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:20:33.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
